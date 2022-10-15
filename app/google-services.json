@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459005935919",
+    "project_id": "sigma-2306c",
+    "storage_bucket": "sigma-2306c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459005935919:android:5db6d73064c92241f761da",
+        "android_client_info": {
+          "package_name": "com.example.sigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459005935919-65oh67vrdfvllouao6h26uas3019me8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMmrQPxEVsgYi6ujwlZf1yDjryJeZEnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459005935919-65oh67vrdfvllouao6h26uas3019me8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
